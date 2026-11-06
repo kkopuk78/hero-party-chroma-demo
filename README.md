@@ -20,4 +20,4 @@ This is a work-in-progress web demo for the Chroma Awards 2027. It uses rule-bas
 | F1 | English / Korean |
 | M | Sound on / off |
 
-Built with Godot 4.7.2. Korean text uses Noto Sans KR under the SIL Open Font License 1.1. Art was created with AI image tools for this prototype; audio was synthesized specifically for this game. Source code and design documents are kept in a separate private repository.
+Built with Godot 4.7.2. Korean text uses Noto Sans KR under the [SIL Open Font License 1.1](licenses/NotoSansKR-OFL.txt). Art was created with AI image tools for this prototype; audio was synthesized specifically for this game. Source code and design documents are kept in a separate private repository.
