@@ -2,6 +2,8 @@
 
 [Play in your browser](https://kkopuk78.github.io/hero-party-chroma-demo/)
 
+[Download the 60-second gameplay video](https://github.com/kkopuk78/hero-party-chroma-demo/releases/download/demo-v0.1/gameplay.mp4)
+
 ![Gameplay screenshot](thumbnail.png)
 
 The prophesied hero is missing. As the guild's tactician, guide four companions who fight on their own. Set a party-wide stance, mark a focus target, and place a rally point. Their flaws sometimes lead to unexpected choices.
