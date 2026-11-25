@@ -1,9 +1,10 @@
 {
- "build": "fddce3d",
- "made": "2026-11-25T11:05:05+09:00",
+ "build": "bd4bfb4",
+ "made": "2026-11-26T06:48:32+09:00",
  "threads": false,
  "noindex": true,
  "play_log": true,
+ "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSc1GcH9syPehx3DxeJbis-gWTpn1_OOIchDH7dYScnszDgdsQ/viewform?usp=pp_url&entry.698284242=bd4bfb4",
  "files": {
   "index.apple-touch-icon.png": {
    "bytes": 11944,
@@ -18,8 +19,8 @@
    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
   },
   "index.html": {
-   "bytes": 5525,
-   "sha256": "61ef10b7542e9d0ff87ead1629b6ba7ce05ffd0bf46aac51c37e20f5c39c2d01"
+   "bytes": 5673,
+   "sha256": "4cf93a4e19ea45b187210cb3866ac153b6cf04b16383b5fb098f12303c6f5cc3"
   },
   "index.icon.png": {
    "bytes": 5700,
@@ -30,8 +31,8 @@
    "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
   },
   "index.pck": {
-   "bytes": 39893640,
-   "sha256": "1ab2bdb06d40d59a2eb25e9d0c923b0f6a3b50463f254b2b2e4f48e6237de996"
+   "bytes": 39896984,
+   "sha256": "dd0663fed140cf4ef3958835ac704f83cdef7629988a1837ae5d41131705d9de"
   },
   "index.png": {
    "bytes": 21443,
